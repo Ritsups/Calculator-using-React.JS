@@ -68,3 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+I always believe that building projects is a crucial step in learning any language or framework. React is the most widely used front-end programming framework today.  React is a UI development library for JavaScript. I have built a Simple Calculator using React JS. It has basic operations like Addition, Subtraction, Division and Multiplication.
